@@ -15,7 +15,7 @@
   <a href="https://github.com/JayendraUpadhyay">
     <img src="https://img.shields.io/badge/Built%20With-💡%20Data%20Passion-orange?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/jayendraupadhyay/">
+  <a href="[https://www.linkedin.com/in/jayendraupadhyay/](https://www.linkedin.com/in/jayendra-upadhyay-13601a37a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcchBT4UoSteparIdG0Kq4Q%3D%3D)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:prosperousjayendra888@gmail.com">
