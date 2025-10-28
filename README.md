@@ -1,70 +1,117 @@
-# 👋 Hello, I'm [Your Name]
+<!-- ===================================================== -->
+<!-- ⚡ JAYENDRA UPADHYAY | GITHUB README SHOWCASE         -->
+<!-- Elegant | Dark Theme | Modern | Pro Look 🎯 -->
+<!-- ===================================================== -->
 
-🚀 Data Enthusiast | Machine Learning Practitioner | SQL & Power BI Expert
-
----
-
-## About Me
-
-I love turning raw data into compelling stories! With a diploma in Computer Science and hands-on experience in Python, SQL, and Power BI, I craft solutions that make data speak.
-
-### Fun Facts
-- 📊 I analyze datasets exceeding 70,000 rows with ease.
-- 🧠 I build, tune, and evaluate machine learning models like regression and clustering.
-- 🖥️ Visual storyteller — I create dashboards that are as insightful as they are beautiful.
-- 🎯 Always learning new tricks to level up data analysis and visualization skills.
+<h1 align="center">🎉 Welcome to My Data World 🎉</h1>
 
 ---
 
-## My Skills
-
-| **Data Science & ML**                        | **Tools & Tech**                              | **Design & Visualization**             |
-|----------------------------------------------|----------------------------------------------|----------------------------------------|
-| Regression (Linear & Polynomial)             | Python (scikit-learn, pandas, numpy)        | Power BI Dashboards & KPIs             |
-| Clustering (K-means, DBSCAN)                 | MySQL & SQL queries                         | Stylish visualizations & slicers      |
-| Model Evaluation (MSE, MAE)                   | Excel & Data Cleaning                       | import images & background removal    |
-| Feature Scaling & Encoding                     | Jupyter Notebooks                           | storytelling with smart layouts       |
+<p align="center">
+  <img src="https://example.com/your-new-sparkling-readme-gif.gif" alt="GIFs For Readme with Sparkling Crackers"/>
+</p>
+<p align="center">
+  <b>Made with 💜 by <a href="https://github.com/JayendraUpadhyay">Jayendra Upadhyay</a></b>
+</p>
 
 ---
 
-## Projects & Achievements
+<h2 align="center">🚀 Data Analyst | Machine Learning Enthusiast | Power BI Developer</h2>
 
-🎯 **Power BI Ride Analysis Dashboards:**  
-- Cleaned & imported large datasets (~70K rows)  
-- Calculated cancellation rates using DAX  
-- Designed interactive visuals, KPIs & slicers  
-
-🤖 **Machine Learning Models:**  
-- Developed linear & polynomial regression models  
-- Practiced feature scaling & model evaluation techniques  
-
-🗃️ **SQL Data Management:**  
-- Managed large datasets efficiently  
-- Created SQL views & optimized queries for real-time analysis  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" height="220" alt="Coding Animation"/>
+</p>
 
 ---
 
-## How to Connect
-
-✨ Let's transform data into insights together!  
-🔗 [LinkedIn Profile](Your-LinkedIn-URL)  
-✉️ [Your Email]
-
----
-
-## Fun & Passionate About
-- 🎶 Blasting positive-mindset songs in English & Hindi  
-- 🌍 Exploring the world of data visualization and storytelling  
-- 🚀 Sharing knowledge to empower community growth
-
----
-
-**Thanks for stopping by!**  
-Feel free to explore my repositories and reach out for collaborations. Let’s create something amazing with data!
+<p align="center">
+  <a href="https://github.com/JayendraUpadhyay">
+    <img src="https://img.shields.io/badge/Built%20With-💡%20Data%20Passion-orange?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/jayendraupadhyay/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:prosperousjayendra888@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-<!-- Optional: Add a badge or fun icon at the bottom -->
-![Smile](https://img.shields.io/badge/Stay%20Curious-🤓-blue)
+## 💫 About Me
+👋 Hi! I’m *Jayendra Upadhyay, a passionate **Data Analyst & Machine Learning Explorer*  
+who loves turning complex datasets into stunning, story-driven dashboards and models.  
+With a curious mind and a creative heart, I’m on a mission to uncover hidden trends, craft visual insights,  
+and make data not just informative—but beautiful.
 
+✨ "Every dataset hides a story, and I love being the storyteller."  
 
+---
+
+<h2 align="center">🔥 Skills & Tech Stack 🔥</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0096FF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/APIs-00C7B7?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center">📊 Featured Project</h2>
+
+<h3 align="center">🧩 Ola Cabs Data Analysis Dashboard</h3>
+
+<p align="center">
+  <b>📍 Power BI | SQL | Data Cleaning | Business Insights</b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/JayendraUpadhyay/Data_Analyst_Advanced_Projects/blob/main/ola_dashboard_preview.gif?raw=true" width="600" alt="Ola Dashboard"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/JayendraUpadhyay/Data_Analyst_Advanced_Projects">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/JayendraUpadhyay/Data_Analyst_Advanced_Projects/raw/refs/heads/main/OLA_Data_Analysis_Dashboard.pbit">
+    <img src="https://img.shields.io/badge/Download-Dashboard-FABE28?style=for-the-badge&logo=powerbi&logoColor=black" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">💫 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JayendraUpadhyay&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayendraUpadhyay&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayendraUpadhyay&theme=tokyo-night" width="95%"/>
+</p>
+
+---
+
+<h3 align="center">✨ Keep Learning. Keep Building. Keep Flying Higher. ✨</h3>
+
+<h4 align="center">🔥 Crafted with passion, powered by data & caffeine ☕</h4>
+
+<h3 align="center">✨ Made with ❤️ & Infinite Curiosity by <a href="https://github.com/JayendraUpadhyay">Jayendra Upadhyay</a> ✨</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="200" alt="Sparkles">
+</p>
+
+<!-- 📝 NOTES:
+✅ Dark mode friendly
+✅ Center-aligned layout (like your screenshot)
+✅ Celebration emojis + badges
+✅ Animated fire & flying GIFs for visual energy
+✅ You can change GIF URLs anytime from Giphy
+✅ Copy-paste directly into your README.md
+-->
