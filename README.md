@@ -1,9 +1,5 @@
-<!-- ===================================================== -->
-<!-- ⚡ JAYENDRA UPADHYAY | GITHUB README SHOWCASE         -->
-<!-- Elegant | Dark Theme | Modern | Pro Look 🎯 -->
-<!-- ===================================================== -->
 
-<h1 align="center">🎉 Welcome to My Data World 🎉</h1>
+<h1 align="center">🎊 Welcome to My Data World 🎊</h1>
 
 ---
 
