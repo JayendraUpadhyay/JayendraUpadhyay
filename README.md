@@ -3,15 +3,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://example.com/your-new-sparkling-readme-gif.gif" alt="GIFs For Readme with Sparkling Crackers"/>
-</p>
-<p align="center">
-  <b>Made with 💜 by <a href="https://github.com/JayendraUpadhyay">Jayendra Upadhyay</a></b>
-</p>
-
----
-
 <h2 align="center">🚀 Data Analyst | Machine Learning Enthusiast | Power BI Developer</h2>
 
 <p align="center">
