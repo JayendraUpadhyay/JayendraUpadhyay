@@ -49,29 +49,6 @@ and make data not just informative—but beautiful.
 
 ---
 
-<h2 align="center">📊 Featured Project</h2>
-
-<h3 align="center">🧩 Ola Cabs Data Analysis Dashboard</h3>
-
-<p align="center">
-  <b>📍 Power BI | SQL | Data Cleaning | Business Insights</b>
-</p>
-
-<p align="center">
-  <img src="https://github.com/JayendraUpadhyay/Data_Analyst_Advanced_Projects/blob/main/ola_dashboard_preview.gif?raw=true" width="600" alt="Ola Dashboard"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/JayendraUpadhyay/Data_Analyst_Advanced_Projects">
-    <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/JayendraUpadhyay/Data_Analyst_Advanced_Projects/raw/refs/heads/main/OLA_Data_Analysis_Dashboard.pbit">
-    <img src="https://img.shields.io/badge/Download-Dashboard-FABE28?style=for-the-badge&logo=powerbi&logoColor=black" />
-  </a>
-</p>
-
----
-
 <h2 align="center">💫 GitHub Stats</h2>
 
 <p align="center">
