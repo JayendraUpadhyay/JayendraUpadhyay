@@ -1,81 +1,50 @@
+```
+                                   jayendra@github
+                                   ---------------
+        ⣠⣶⣶⣦⡀                      OS: ......................... Windows 11 / Linux (WSL)
+      ⣴⣿⣿⣿⣿⣿⣷⡀                    Role: ....................... Data Analyst | ML Engineer
+     ⣿⣿⣿⣿⣿⣿⣿⣿⡇                    Location: ................... India 🇮🇳
+     ⣿⣿⣿⣿⣿⣿⣿⣿⡇                    Uptime: ..................... Building since college
+     ⢿⣿⣿⣿⣿⣿⣿⣿⠃                    Shell: ...................... Python 3.11 / FastAPI
+      ⠻⣿⣿⣿⣿⣿⠟                     
+        ⠉⠉⠉                        Languages.Programming: ...... Python, JavaScript, SQL
+                                   Frameworks: ................. FastAPI, React, TensorFlow, PyTorch
+                                   Tools: ...................... ONNX Runtime, Power BI, Git
 
-<h1 align="center">🎊 Welcome to My Data World 🎊</h1>
+                                   - Contact -----------------------------
+                                   Email: ...................... your.email@gmail.com
+                                   LinkedIn: ................... linkedin.com/in/your-handle
+                                   GitHub: ..................... github.com/your-handle
 
----
+                                   - Flagship Projects ---------------------
+                                   Cure AI: .................... AI healthcare diagnostics (React + FastAPI + ONNX)
+                                   FitSaathi: .................. Bilingual AI fitness trainer (MediaPipe + Web Speech)
+                                   PitchPulse: ................. Cricket analytics dashboard
+                                   Crowd Density Estimator: .... Real-time privacy-first crowd counting (CSRNet)
 
-<h2 align="center">🚀 Data Analyst | Machine Learning Enthusiast | Power BI Developer</h2>
+                                   - Hackathons ---------------------------
+                                   SmartAIthon · LexHack '26 · NextGenHacks
+                                   Beyond Tomorrow · ML Empowerment Build Challenge
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" height="220" alt="Coding Animation"/>
-</p>
+                                   - GitHub Stats -------------------------
+                                   Repos: ...... [X] | Stars: ...... [X]
+                                   Commits: .... [X] | Followers: .. [X]
+```
 
----
+<!--
+  🔥 Tip: is neofetch block ko real badges se replace/enhance kar sakta hai:
+  - https://github.com/anuraghazra/github-readme-stats  (live repo/star/commit counts)
+  - https://github.com/DenverCoder1/readme-typing-svg   (typing animation header)
+  - https://github.com/kyechan99/capsule-render         (animated banner)
 
-<p align="center">
-  <a href="https://github.com/JayendraUpadhyay">
-    <img src="https://img.shields.io/badge/Built%20With-💡%20Data%20Passion-orange?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/jayendra-upadhyay-13601a37a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=prosperousjayendra888@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
-## 💫 About Me
-👋 Hi! I’m *Jayendra Upadhyay, a passionate **Data Analyst & Machine Learning Explorer*  
-who loves turning complex datasets into stunning, story-driven dashboards and models.  
-With a curious mind and a creative heart, I’m on a mission to uncover hidden trends, craft visual insights,  
-and make data not just informative—but beautiful.
-
-✨ "Every dataset hides a story, and I love being the storyteller."  
-
----
-
-<h2 align="center">🔥 Skills & Tech Stack 🔥</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-0096FF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/APIs-00C7B7?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-<h2 align="center">💫 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayendraUpadhyay&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayendraUpadhyay&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayendraUpadhyay&theme=tokyo-night" width="95%"/>
-</p>
-
----
-
-<h3 align="center">✨ Keep Learning. Keep Building. Keep Flying Higher. ✨</h3>
-
-<h4 align="center">🔥 Crafted with passion, powered by data & caffeine ☕</h4>
-
-<h3 align="center">✨ Made with ❤️ & Infinite Curiosity by <a href="https://github.com/JayendraUpadhyay">Jayendra Upadhyay</a> ✨</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="200" alt="Sparkles">
-</p>
-
-<!-- 📝 NOTES:
-✅ Dark mode friendly
-✅ Center-aligned layout (like your screenshot)
-✅ Celebration emojis + badges
-✅ Animated fire & flying GIFs for visual energy
-✅ You can change GIF URLs anytime from Giphy
-✅ Copy-paste directly into your README.md
+  Neeche wahi dynamic version ka starter — bas apna GitHub username daal:
 -->
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+ML+Engineer;Building+Cure+AI%2C+FitSaathi+%26+more;Python+%2B+FastAPI+%2B+React+%2B+TensorFlow)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
