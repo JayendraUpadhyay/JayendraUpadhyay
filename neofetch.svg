@@ -1,94 +1,78 @@
-<svg width="900" height="560" viewBox="0 0 900 560" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Courier New',monospace">
-  <rect width="900" height="560" fill="#0d1117"/>
-
-  <!-- simple pixel avatar block -->
-  <g transform="translate(50,60)">
-    <rect x="0" y="0" width="140" height="140" fill="#161b22" stroke="#30363d"/>
-    <g fill="#00f7ff">
-      <rect x="30" y="20" width="80" height="10"/>
-      <rect x="20" y="30" width="10" height="80"/>
-      <rect x="110" y="30" width="10" height="80"/>
-      <rect x="30" y="110" width="80" height="10"/>
-      <rect x="50" y="50" width="15" height="15"/>
-      <rect x="75" y="50" width="15" height="15"/>
-      <rect x="45" y="80" width="50" height="10"/>
-    </g>
-  </g>
-  <text x="50" y="230" fill="#58a6ff" font-size="18" font-weight="bold">Jayendra Upadhyay</text>
-  <text x="50" y="252" fill="#8b949e" font-size="13">Data Analyst | ML Engineer</text>
+<svg width="700" height="560" viewBox="0 0 700 560" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Courier New',monospace">
+  <rect width="700" height="560" fill="#0d1117"/>
 
   <!-- info block -->
   <g font-size="14">
-    <text x="230" y="40" fill="#00f7ff" font-weight="bold">jayendra@github</text>
-    <line x1="230" y1="48" x2="420" y2="48" stroke="#30363d" stroke-width="1"/>
+    <text x="30" y="40" fill="#00f7ff" font-weight="bold">jayendra@github</text>
+    <line x1="30" y1="48" x2="220" y2="48" stroke="#30363d" stroke-width="1"/>
 
-    <text x="230" y="72" fill="#f78166">OS:</text>
-    <text x="330" y="72" fill="#c9d1d9">Windows 11 / Linux (WSL)</text>
+    <text x="30" y="72" fill="#f78166">OS:</text>
+    <text x="130" y="72" fill="#c9d1d9">Windows 11 / Linux (WSL)</text>
 
-    <text x="230" y="94" fill="#f78166">Role:</text>
-    <text x="330" y="94" fill="#c9d1d9">Data Analyst | ML Engineer</text>
+    <text x="30" y="94" fill="#f78166">Role:</text>
+    <text x="130" y="94" fill="#c9d1d9">Data Analyst | ML Engineer</text>
 
-    <text x="230" y="116" fill="#f78166">Location:</text>
-    <text x="330" y="116" fill="#c9d1d9">India</text>
+    <text x="30" y="116" fill="#f78166">Location:</text>
+    <text x="130" y="116" fill="#c9d1d9">India</text>
 
-    <text x="230" y="138" fill="#f78166">Uptime:</text>
-    <text x="330" y="138" fill="#c9d1d9">Building since college</text>
+    <text x="30" y="138" fill="#f78166">Uptime:</text>
+    <text x="130" y="138" fill="#c9d1d9">Building since college</text>
 
-    <text x="230" y="160" fill="#f78166">Shell:</text>
-    <text x="330" y="160" fill="#c9d1d9">Python 3.11 / FastAPI</text>
+    <text x="30" y="160" fill="#f78166">Shell:</text>
+    <text x="130" y="160" fill="#c9d1d9">Python 3.11 / FastAPI</text>
 
-    <line x1="230" y1="178" x2="850" y2="178" stroke="#30363d" stroke-width="1"/>
+    <line x1="30" y1="178" x2="670" y2="178" stroke="#30363d" stroke-width="1"/>
 
-    <text x="230" y="202" fill="#7ee787">Languages.Programming:</text>
-    <text x="470" y="202" fill="#c9d1d9">Python, JavaScript, SQL</text>
+    <text x="30" y="202" fill="#7ee787">Languages.Programming:</text>
+    <text x="270" y="202" fill="#c9d1d9">Python, JavaScript, SQL</text>
 
-    <text x="230" y="224" fill="#7ee787">Frameworks:</text>
-    <text x="470" y="224" fill="#c9d1d9">FastAPI, React, TensorFlow, PyTorch</text>
+    <text x="30" y="224" fill="#7ee787">Frameworks:</text>
+    <text x="270" y="224" fill="#c9d1d9">FastAPI, React, TensorFlow, PyTorch</text>
 
-    <text x="230" y="246" fill="#7ee787">Tools:</text>
-    <text x="470" y="246" fill="#c9d1d9">ONNX Runtime, Power BI, Git</text>
+    <text x="30" y="246" fill="#7ee787">Tools:</text>
+    <text x="270" y="246" fill="#c9d1d9">ONNX Runtime, Power BI, Git</text>
 
-    <line x1="230" y1="264" x2="850" y2="264" stroke="#30363d" stroke-width="1"/>
+    <line x1="30" y1="264" x2="670" y2="264" stroke="#30363d" stroke-width="1"/>
 
-    <text x="230" y="288" fill="#d2a8ff">- Contact -</text>
-    <line x1="290" y1="284" x2="850" y2="284" stroke="#30363d" stroke-width="1"/>
+    <text x="30" y="288" fill="#d2a8ff">- Contact -</text>
+    <line x1="90" y1="284" x2="670" y2="284" stroke="#30363d" stroke-width="1"/>
 
-    <text x="230" y="310" fill="#f78166">Email:</text>
-    <text x="330" y="310" fill="#c9d1d9">your.email@gmail.com</text>
+    <text x="30" y="310" fill="#f78166">Email:</text>
+    <text x="130" y="310" fill="#c9d1d9">your.email@gmail.com</text>
 
-    <text x="230" y="332" fill="#f78166">LinkedIn:</text>
-    <text x="330" y="332" fill="#c9d1d9">linkedin.com/in/your-handle</text>
+    <text x="30" y="332" fill="#f78166">LinkedIn:</text>
+    <text x="130" y="332" fill="#c9d1d9">linkedin.com/in/your-handle</text>
 
-    <text x="230" y="354" fill="#f78166">GitHub:</text>
-    <text x="330" y="354" fill="#c9d1d9">github.com/your-handle</text>
+    <text x="30" y="354" fill="#f78166">GitHub:</text>
+    <text x="130" y="354" fill="#c9d1d9">github.com/your-handle</text>
 
-    <line x1="230" y1="372" x2="850" y2="372" stroke="#30363d" stroke-width="1"/>
+    <line x1="30" y1="372" x2="670" y2="372" stroke="#30363d" stroke-width="1"/>
 
-    <text x="230" y="396" fill="#d2a8ff">- Flagship projects -</text>
-    <line x1="380" y1="392" x2="850" y2="392" stroke="#30363d" stroke-width="1"/>
+    <text x="30" y="396" fill="#d2a8ff">- Flagship projects -</text>
+    <line x1="180" y1="392" x2="670" y2="392" stroke="#30363d" stroke-width="1"/>
 
-    <text x="230" y="418" fill="#f78166">Cure AI:</text>
-    <text x="330" y="418" fill="#c9d1d9">AI healthcare diagnostics (React + FastAPI + ONNX)</text>
+    <text x="30" y="418" fill="#f78166">Cure AI:</text>
+    <text x="130" y="418" fill="#c9d1d9">AI healthcare diagnostics (React + FastAPI + ONNX)</text>
 
-    <text x="230" y="440" fill="#f78166">FitSaathi:</text>
-    <text x="330" y="440" fill="#c9d1d9">Bilingual AI fitness trainer (MediaPipe + Web Speech)</text>
+    <text x="30" y="440" fill="#f78166">FitSaathi:</text>
+    <text x="130" y="440" fill="#c9d1d9">Bilingual AI fitness trainer (MediaPipe + Web Speech)</text>
 
-    <text x="230" y="462" fill="#f78166">PitchPulse:</text>
-    <text x="330" y="462" fill="#c9d1d9">Cricket analytics dashboard</text>
+    <text x="30" y="462" fill="#f78166">PitchPulse:</text>
+    <text x="130" y="462" fill="#c9d1d9">Cricket analytics dashboard</text>
 
-    <text x="230" y="484" fill="#f78166">Crowd Density Est.:</text>
-    <text x="400" y="484" fill="#c9d1d9">Real-time privacy-first crowd counting</text>
+    <text x="30" y="484" fill="#f78166">Crowd Density Est.:</text>
+    <text x="200" y="484" fill="#c9d1d9">Real-time privacy-first crowd counting</text>
 
-    <line x1="230" y1="502" x2="850" y2="502" stroke="#30363d" stroke-width="1"/>
+    <line x1="30" y1="502" x2="670" y2="502" stroke="#30363d" stroke-width="1"/>
 
-    <text x="230" y="526" fill="#d2a8ff">- GitHub stats -</text>
-    <line x1="360" y1="522" x2="850" y2="522" stroke="#30363d" stroke-width="1"/>
+    <text x="30" y="526" fill="#d2a8ff">- GitHub stats -</text>
+    <line x1="160" y1="522" x2="670" y2="522" stroke="#30363d" stroke-width="1"/>
 
-    <text x="230" y="548" fill="#f78166">Repos:</text>
+    <text x="30" y="548" fill="#f78166">Repos:</text>
+    <text x="130" y="548" fill="#c9d1d9">[X]</text>
+    <text x="250" y="548" fill="#f78166">Stars:</text>
     <text x="330" y="548" fill="#c9d1d9">[X]</text>
-    <text x="450" y="548" fill="#f78166">Stars:</text>
-    <text x="530" y="548" fill="#c9d1d9">[X]</text>
-    <text x="650" y="548" fill="#f78166">Commits:</text>
-    <text x="750" y="548" fill="#c9d1d9">[X]</text>
+    <text x="450" y="548" fill="#f78166">Commits:</text>
+    <text x="550" y="548" fill="#c9d1d9">[X]</text>
   </g>
 </svg>
