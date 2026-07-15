@@ -74,21 +74,11 @@
 
 ---
 
-### 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JayendraUpadhyay&theme=react-dark&hide_border=true&area=true" width="90%"/>
-</div>
-
----
-
 <div align="center">
 
 ### 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/JayendraUpadhyay/JayendraUpadhyay/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-<sub>⚠️ Snake animation ek chhota one-time GitHub Action setup maangta hai apne profile repo me — neeche instructions di hai.</sub>
 
 </div>
 
