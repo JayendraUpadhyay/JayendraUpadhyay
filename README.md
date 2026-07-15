@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="./assets/ai-data-banner.png" alt="AI and data analytics visual" width="100%" />
+<img src="./ai-data-banner.png" alt="AI and data analytics visual" width="100%" />
 
   <h1>Hi, I'm Jayendra Upadhyay 👋</h1>
   <h3>Data Analyst · AI/ML Explorer · Turning data into decisions</h3>
