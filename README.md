@@ -1,9 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8E2DE2,100:00C7B7&height=190&section=header&text=Jayendra%20Upadhyay&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=48&desc=Aspiring%20Data%20Scientist%20%7C%20AI%2FML%20Enthusiast&descAlignY=68&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Data+Analytics+%7C+Machine+Learning+%7C+Deep+Learning;Building+AI+that+tells+stories+with+data;Always+learning.+Always+building." alt="Typing SVG" />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:001F3F,70:0074D9,100:7FDBFF&height=220&section=header&text=JAYENDRA%20UPADHYAY&fontColor=FFFFFF&fontSize=56&animation=twinkling&fontAlignY=45&desc=AI%20Engineer%20in%20Progress%20⚡&descAlignY=68&descSize=20" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=INITIALIZING+AI+SYSTEMS...;TRAINING+NEURAL+NETWORKS...;BUILDING+INTELLIGENT+SOLUTIONS...;DEPLOYING+MACHINE+LEARNING+MODELS..." />
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JayendraUpadhyay&icon=5&color=11&style=flat-square)
