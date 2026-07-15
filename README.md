@@ -74,9 +74,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JayendraUpadhyay&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&height=195" width="90%"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayendraUpadhyay&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&height=195" width="90%"/>
-
 <img src="https://streak-stats.demolab.com/?user=JayendraUpadhyay&theme=radical&hide_border=true" width="90%"/>
 </div>
 
