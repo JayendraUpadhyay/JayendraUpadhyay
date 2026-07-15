@@ -32,16 +32,11 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-
-**Languages & Core**
-<br/>
+  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-**AI / ML / Data Science**
-<br/>
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -51,18 +46,12 @@
 ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-**Databases & DevOps**
-<br/>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-**Deployment**
-<br/>
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
 
@@ -72,19 +61,16 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JayendraUpadhyay&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&height=195" width="90%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayendraUpadhyay&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&height=195" width="90%"/>
-<img src="https://streak-stats.demolab.com/?user=JayendraUpadhyay&theme=radical&hide_border=true" width="90%"/>
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JayendraUpadhyay&theme=radical&no-frame=true&row=1&column=7" width="90%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JayendraUpadhyay&theme=ambient_gradient&layout=compact&langs_count=4&card_width=400"
+       width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=JayendraUpadhyay&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true"
+       width="45%" />
+  <img src="https://streak-stats.demolab.com/?user=JayendraUpadhyay&theme=ambient_gradient&hide_border=false"
+       width="49%" />
+</p>
 
 ---
 
@@ -105,21 +91,6 @@
 <sub>⚠️ Snake animation ek chhota one-time GitHub Action setup maangta hai apne profile repo me — neeche instructions di hai.</sub>
 
 </div>
-
----
-
-<details>
-<summary align="center">🐍 <b>Snake animation set up kaise kare (one-time, 2 min)</b></summary>
-
-<br/>
-
-1. Apne profile repo (`JayendraUpadhyay/JayendraUpadhyay`) me `.github/workflows/snake.yml` naam ki file banao — content niche di gayi `snake.yml` file me hai (isi chat me attach hai).
-2. Commit + push kar do.
-3. GitHub Actions tab me jaake workflow ko ek baar manually run karo (`Run workflow`).
-4. Ye ek `output` branch banayega jisme SVG generate hoga — README me already uska link laga hua hai, khud-ba-khud dikhne lagega.
-5. Uske baad ye daily automatically refresh hota rahega (cron already set hai).
-
-</details>
 
 ---
 
