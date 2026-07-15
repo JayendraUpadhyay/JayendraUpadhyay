@@ -15,7 +15,7 @@
 
 ---
 
-### 💫 About Me
+<B> 💫ABOUT ME </B>
 
 ```yaml
 🔭 Currently Building:   Data Analytics, Machine Learning & Deep Learning Projects
@@ -24,12 +24,12 @@
 🌱 Currently Learning:   Deep Learning, TensorFlow, PyTorch, Keras, Computer Vision, NLP, Generative AI
 💬 Ask Me About:         Python, SQL, Power BI, Excel, ML, Statistics & Data Visualization
 🎯 Goal:                 Becoming a Data Scientist who builds intelligent AI solutions for the real world
-⚡ Fun Fact:              Data is useless until it tells a story — and AI is the storyteller. 🚀
+⚡ Fun Fact:             Data is useless until it tells a story — and AI is the storyteller. 🚀
 ```
 
 ---
 
-### 🛠️ Tech Stack
+<B> 🛠️TECH STACK  </B>
 
 <div align="center">
   
@@ -59,7 +59,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<B> 📊GITHUB STATS </B>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JayendraUpadhyay&theme=ambient_gradient&layout=compact&langs_count=4&card_width=400"
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-### 🐍 Contribution Snake
+<B> 🐍CONTRIBUTION SNAKE </B>
 
 <img src="https://raw.githubusercontent.com/JayendraUpadhyay/JayendraUpadhyay/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
@@ -86,7 +86,7 @@
 
 <div align="center">
 
-### 🌐 Let's Connect
+<B> 🌐LET'S CONNECT </B>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayendra-upadhyay-13601a37a/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prosperousjayendra888@gmail.com)
