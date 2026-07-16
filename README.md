@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 <B> 💫ABOUT ME </B>
 
 ```yaml
@@ -23,8 +21,6 @@
 🎯 Goal:                 Becoming a Data Scientist who builds intelligent AI solutions for the real world
 ⚡ Fun Fact:             Data is useless until it tells a story — and AI is the storyteller. 🚀
 ```
-
----
 
 <B> 🛠️TECH STACK  </B>
 
@@ -54,8 +50,6 @@
 
 </div>
 
----
-
 <B> 📊GITHUB STATS </B>
 
 <p align="center">
@@ -69,8 +63,6 @@
        width="49%" />
 </p>
 
----
-
 <div align="center">
 
 <B> 🐍CONTRIBUTION SNAKE </B>
@@ -78,8 +70,6 @@
 <img src="https://raw.githubusercontent.com/JayendraUpadhyay/JayendraUpadhyay/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
-
----
 
 <div align="center">
 
