@@ -8,19 +8,25 @@
 [![Gmail](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prosperousjayendra888@gmail.com)
 [![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jayendraupadhyay)
 
-<h2 align="center">💫ABOUT ME</h2>
+</div>
 
+<div align="center">
+<h4>💫ABOUT ME</h4>
+</div>
+  
 ```yaml
-🔭 Currently Building:   Data Analytics, Machine Learning & Deep Learning Projects
-🤝 Open To Collaborate:  Open Source Data Analytics, AI/ML & Real-World Projects
-💡 Looking For Help:     MLOps, Large Language Models (LLMs) & AI Deployment
-🌱 Currently Learning:   Deep Learning, TensorFlow, PyTorch, Keras, Computer Vision, NLP, Generative AI
-💬 Ask Me About:         Python, SQL, Power BI, Excel, ML, Statistics & Data Visualization
-🎯 Goal:                 Becoming a Data Scientist who builds intelligent AI solutions for the real world
-⚡ Fun Fact:             Data is useless until it tells a story — and AI is the storyteller. 🚀
+🔭 Currently Building:    Data Analytics, Machine Learning & Deep Learning Projects
+🤝 Open To Collaborate:   Open Source Data Analytics, AI/ML & Real-World Projects
+💡 Looking For Help:      MLOps, Large Language Models (LLMs) & AI Deployment
+🌱 Currently Learning:    Deep Learning, TensorFlow, PyTorch, Keras, Computer Vision, NLP, Generative AI
+💬 Ask Me About:          Python, SQL, Power BI, Excel, ML, Statistics & Data Visualization
+🎯 Goal:                  Becoming a Data Scientist who builds intelligent AI solutions for the real world
+⚡ Fun Fact:              Data is useless until it tells a story — and AI is the storyteller. 🚀
 ```
 
-<B> 🛠️TECH STACK  </B>
+<div align="center">
+
+<h4>🛠️TECH STACK</h4>
 
 <div align="center">
   
@@ -48,7 +54,7 @@
 
 </div>
 
-<B> 📊GITHUB STATS </B>
+<h4>📊GITHUB STATS</h4>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JayendraUpadhyay&theme=ambient_gradient&layout=compact&langs_count=4&card_width=400"
@@ -63,14 +69,14 @@
 
 <div align="center">
 
-<B> 🐍CONTRIBUTION SNAKE </B>
+<h4>🐍CONTRIBUTION SNAKE</h4>
 <img src="https://raw.githubusercontent.com/JayendraUpadhyay/JayendraUpadhyay/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
 
 <div align="center">
 
-<B> 🌐LET'S CONNECT </B>
+<h4>🌐LET'S CONNECT</h4>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayendra-upadhyay-13601a37a/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prosperousjayendra888@gmail.com)
