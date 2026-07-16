@@ -3,9 +3,10 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=INITIALIZING+AI+SYSTEMS...;TRAINING+NEURAL+NETWORKS...;BUILDING+INTELLIGENT+SOLUTIONS...;DEPLOYING+MACHINE+LEARNING+MODELS..." />
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=JayendraUpadhyay&icon=5&color=11&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayendra-upadhyay-13601a37a/)
-[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=prosperousjayendra888@gmail.com)[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jayendraupadhyay)
+![Profile Views](https://komarev.com/ghpvc/?username=JayendraUpadhyay&label=Visitors&color=brightgreen&style=plastic)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=plastic&logo=linkedin&logoColor=ff69b4)](https://www.linkedin.com/in/jayendra-upadhyay-13601a37a/)
+[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=plastic&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=prosperousjayendra888@gmail.com)
+[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-ffdd00?style=plastic&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jayendraupadhyay)
 
 </div>
 
