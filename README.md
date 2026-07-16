@@ -8,9 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prosperousjayendra888@gmail.com)
 [![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jayendraupadhyay)
 
-</div>
-
-<B> 💫ABOUT ME </B>
+<h2 align="center">💫ABOUT ME</h2>
 
 ```yaml
 🔭 Currently Building:   Data Analytics, Machine Learning & Deep Learning Projects
@@ -66,7 +64,6 @@
 <div align="center">
 
 <B> 🐍CONTRIBUTION SNAKE </B>
-
 <img src="https://raw.githubusercontent.com/JayendraUpadhyay/JayendraUpadhyay/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
